@@ -1,0 +1,33 @@
+main {
+    text-align: center;
+    
+  }
+  
+  h1 {
+    display: inline-block;
+    font-family: Verdana, Geneva, sans-serif;
+  }
+  
+  #img-div {
+    padding-bottom: 10px;
+  }
+  
+  #img-caption{
+    padding-bottom: 10px;
+  }
+  
+  #tribute-info{
+    padding-bottom: 10px;
+  }
+  
+  #link{
+    padding-bottom: 15px;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
+  
+  
+  
