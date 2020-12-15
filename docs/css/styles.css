@@ -1,19 +1,18 @@
-main {
-    text-align: center;
-    
-  }
-  
-  h1 {
+
+  h1  {
     display: inline-block;
     font-family: Verdana, Geneva, sans-serif;
   }
   
-  #img-div {
+  .top-image {
     padding-bottom: 10px;
+    max-width: 15%;
   }
   
   #img-caption{
     padding-bottom: 10px;
+    justify-content: left;
+    /* font-family: Verdana, Geneva, sans-serif; */
   }
   
   #tribute-info{
@@ -24,10 +23,7 @@ main {
     padding-bottom: 15px;
   }
   
-  img {
-    width: 100%;
-    height: auto;
-  }
+  
   
   
   
